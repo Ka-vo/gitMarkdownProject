@@ -18,7 +18,7 @@ LICENSE: _[MIT](./license.md)_
 
 - Основные команды GIT
 
-  - [Начало работы]()
+  - [Начало работы](./basicCommands.md)
   - [Репозитории](./gitRepository.md)
   - [Ветвление](./gitBranches.md)
   - [Коммиты](./gitCommit.md)
